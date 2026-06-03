@@ -90,6 +90,8 @@ This project demonstrates:
 * Logging and Reporting
 * Exception Handling
 
+![Scanner Output](https://github.com/althafmohammed1818-crypto/Syntecxhub_port_scanner/blob/38654b3bba67233e5771116f562eaf9f5f9abcd5/screenshots/Screenshot_2026-06-03_10_55_05.png)
+
 ## Disclaimer
 
 This tool is intended for educational purposes and authorized security testing only. Always obtain permission before scanning systems or networks.
